@@ -10,7 +10,7 @@
 
 💬 Ask me about Terraform best practices, Jenkins pipeline scripting, or anything related to DevOps methodologies.
 
-📫 How to reach me: Drop me a message on [LinkedIn](https://www.linkedin.com/in/k-anil-kumar-5b659a15b/)
+📫 How to reach me: Drop me a message on [LinkedIn](https://www.linkedin.com/in/kalelynooranilkumar/)
 
 😄 Pronouns: He/Him
 
